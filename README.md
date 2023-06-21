@@ -28,3 +28,13 @@ Data Structures & Algorithms
 7. Graph<br>
 
 ## ➡️ALGORITHMS
+
+
+NOTES: 
+- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+<br>
+
+- https://rahuldkjain.github.io/gh-profile-readme-generator/
+- https://readme.so/editor
+- https://gprm.itsvg.in/
