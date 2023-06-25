@@ -8,7 +8,7 @@ Data Structures & Algorithms
     - Single Linked List ✅<br>
     - Double Linked List ✅<br>
     - Circular Linked List ✅<br>
-    - Circular Double Linked List <br>
+    - Circular Double Linked List ✅<br>
 3. Hash Table<br>
 4. Stack<br>
     - Stack using Arrays ✅<br>
