@@ -3,32 +3,48 @@
 Data Structures & Algorithms
 
 ## ➡️DATA STRUCTURES
-1. Array ✅<br>
-2. Linked List<br>
-    - Single Linked List ✅<br>
-    - Double Linked List ✅<br>
-    - Circular Linked List ✅<br>
-    - Circular Double Linked List ✅<br>
-3. Hash Table<br>
-4. Stack<br>
-    - Stack using Arrays ✅<br>
-    - Stack using Linked List ✅<br>
-5. Queue<br>
-    - Queue using Arrays ✅<br>
-    - Queue using Linked List ✅<br>
-    - Circular Queue using Arrays ✅<br>
-    - Circular Queue using Linked List<br>
-    - Double Ended Queue (DEQUE)<br>
-    - Priority Queue<br>
-6. Tree<br>
-    - Binary tree<br>
-    - Binary Search Tree<br>
-    - AVL Tree<br>
-    - B-Tree<br>
-7. Graph<br>
+1. Array ✅
+2. Linked List
+    - Single Linked List ✅
+    - Double Linked List ✅
+    - Circular Linked List ✅
+    - Circular Double Linked List ✅
+3. Hash Table
+4. Stack
+    - Stack using Arrays ✅
+    - Stack using Linked List ✅
+5. Queue
+    - Queue using Arrays ✅
+    - Queue using Linked List ✅
+    - Circular Queue using Arrays ✅
+    - Circular Queue using Linked List
+    - Double Ended Queue (DEQUE)
+    - Priority Queue
+6. Tree
+    - Binary tree
+    - Binary Search Tree
+    - AVL Tree
+    - B-Tree
+7. Graph
 
 ## ➡️ALGORITHMS
-
+1. Recursion
+2. Sorting
+    - Bubble Sort ✅
+    - Selection Sort ✅
+    - Insertion Sort ✅
+    - Heap Sort
+    - Quick Sort
+    - Merge Sort ✅
+    - Bucket Sort
+    - Radix Sort
+    - Count Sort
+    - Shell Sort
+    - Tim Sort
+    - Tree Sort
+    - Cube Sort
+3. Search (BFS, DFS)
+4. Dynamic Programming
 
 NOTES: 
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
