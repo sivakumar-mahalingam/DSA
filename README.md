@@ -10,6 +10,12 @@ Data Structures & Algorithms
     - Circular Linked List ✅
     - Circular Double Linked List ✅
 3. Hash Table
+    - Simple Hash Table ✅
+    - Separate Chaining / Open Hashing
+    - Open Addressing / Closed Hashing
+        - Linear Probing
+        - Quadratic Probing
+        - Double Hashing
 4. Stack
     - Stack using Arrays ✅
     - Stack using Linked List ✅
