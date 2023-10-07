@@ -21,8 +21,7 @@ Data Structures & Algorithms
     - Double Ended Queue (DEQUE)
     - Priority Queue
 6. Tree
-    - Binary tree
-    - Binary Search Tree
+    - Binary Search Tree ✅
     - AVL Tree
     - B-Tree
 7. Graph
