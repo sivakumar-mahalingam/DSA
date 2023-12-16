@@ -54,6 +54,9 @@ Data Structures & Algorithms
 NOTES: 
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+MindMap:
+- https://www.mindomo.com/mindmap/data-structures-algorithms-1cec4bc52f764156bf5c6b37958ef502
+- 
 <br>
 
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
