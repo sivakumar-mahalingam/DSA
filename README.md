@@ -38,15 +38,15 @@ Data Structures & Algorithms
     - Bubble Sort ✅
     - Selection Sort ✅
     - Insertion Sort ✅
+    - Shell Sort ✅
+    - Merge Sort ✅
     - Heap Sort
     - Quick Sort
-    - Merge Sort ✅
+    - Tree Sort
     - Bucket Sort
     - Radix Sort
     - Count Sort
-    - Shell Sort
     - Tim Sort
-    - Tree Sort
     - Cube Sort
 3. Search (BFS, DFS)
 4. Dynamic Programming
