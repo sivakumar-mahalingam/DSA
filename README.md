@@ -40,7 +40,7 @@ Data Structures & Algorithms
     - Insertion Sort ✅
     - Shell Sort ✅
     - Merge Sort ✅
-    - Heap Sort
+    - Heap Sort ✅
     - Quick Sort
     - Tree Sort
     - Bucket Sort
