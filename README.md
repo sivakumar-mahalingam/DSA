@@ -3,7 +3,7 @@
 Data Structures & Algorithms
 
 ## ➡️DATA STRUCTURES
-1. Array ✅
+1. [Array](https://github.com/sivakumar-mahalingam/DSA/blob/main/DataStructures/01_Array/Array.ipynb) ✅
 2. Linked List
     - Single Linked List ✅
     - Double Linked List ✅
