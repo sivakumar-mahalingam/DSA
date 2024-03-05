@@ -35,7 +35,7 @@ Data Structures & Algorithms
 ## ➡️ALGORITHMS
 1. Recursion
 2. Sorting
-    - Bubble Sort ✅
+    - [Bubble Sort](https://github.com/sivakumar-mahalingam/DSA/blob/main/Algorithms/02_Sorting/BubbleSort.ipynb) ✅
     - Selection Sort ✅
     - Insertion Sort ✅
     - Shell Sort ✅
