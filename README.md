@@ -4,11 +4,11 @@ Data Structures & Algorithms
 
 ## ➡️DATA STRUCTURES
 1. [Array](https://github.com/sivakumar-mahalingam/DSA/blob/main/DataStructures/01_Array/Array.ipynb) ✅
-2. Linked List
-    - Single Linked List ✅
-    - Double Linked List ✅
-    - Circular Linked List ✅
-    - Circular Double Linked List ✅
+2. [Linked List](https://github.com/sivakumar-mahalingam/DSA/tree/main/DataStructures/02_LinkedList)
+    - [Single Linked List](https://github.com/sivakumar-mahalingam/DSA/blob/main/DataStructures/02_LinkedList/SingleLinkedList.ipynb) ✅
+    - [Double Linked List](https://github.com/sivakumar-mahalingam/DSA/blob/main/DataStructures/02_LinkedList/DoubleLinkedList.ipynb) ✅
+    - [Circular Linked List](https://github.com/sivakumar-mahalingam/DSA/blob/main/DataStructures/02_LinkedList/CircularLinkedList.ipynb) ✅
+    - [Circular Double Linked List](https://github.com/sivakumar-mahalingam/DSA/blob/main/DataStructures/02_LinkedList/CircularDoubleLinkedList.ipynb) ✅
 3. Hash Table
     - Simple Hash Table ✅
     - Separate Chaining / Open Hashing
@@ -34,7 +34,7 @@ Data Structures & Algorithms
 
 ## ➡️ALGORITHMS
 1. Recursion
-2. Sorting
+2. [Sorting](https://github.com/sivakumar-mahalingam/DSA/tree/main/Algorithms/02_Sorting)
     - [Bubble Sort](https://github.com/sivakumar-mahalingam/DSA/blob/main/Algorithms/02_Sorting/BubbleSort.ipynb) ✅
     - Selection Sort ✅
     - Insertion Sort ✅
