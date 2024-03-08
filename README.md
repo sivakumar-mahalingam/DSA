@@ -36,7 +36,7 @@ Data Structures & Algorithms
 1. [Recursion](https://github.com/sivakumar-mahalingam/DSA/tree/main/Algorithms/01_Recursion)
 2. [Sorting](https://github.com/sivakumar-mahalingam/DSA/tree/main/Algorithms/02_Sorting)
     - [Bubble Sort](https://github.com/sivakumar-mahalingam/DSA/blob/main/Algorithms/02_Sorting/BubbleSort.ipynb) ✅
-    - Selection Sort ✅
+    - [Selection Sort](https://github.com/sivakumar-mahalingam/DSA/blob/main/Algorithms/02_Sorting/SelectionSort.ipynb) ✅
     - Insertion Sort ✅
     - Shell Sort ✅
     - Merge Sort ✅
