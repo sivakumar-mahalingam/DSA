@@ -37,7 +37,7 @@ Data Structures & Algorithms
 2. [Sorting](https://github.com/sivakumar-mahalingam/DSA/tree/main/Algorithms/02_Sorting)
     - [Bubble Sort](https://github.com/sivakumar-mahalingam/DSA/blob/main/Algorithms/02_Sorting/BubbleSort.ipynb) ✅
     - [Selection Sort](https://github.com/sivakumar-mahalingam/DSA/blob/main/Algorithms/02_Sorting/SelectionSort.ipynb) ✅
-    - Insertion Sort ✅
+    - [Insertion Sort](https://github.com/sivakumar-mahalingam/DSA/blob/main/Algorithms/02_Sorting/InsertionSort.ipynb) ✅
     - Shell Sort ✅
     - Merge Sort ✅
     - Heap Sort ✅
