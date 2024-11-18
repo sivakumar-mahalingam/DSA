@@ -9,6 +9,7 @@ Data Structures & Algorithms
     - [Double Linked List](https://github.com/sivakumar-mahalingam/DSA/blob/main/DataStructures/02_LinkedList/DoubleLinkedList.ipynb) ✅
     - [Circular Linked List](https://github.com/sivakumar-mahalingam/DSA/blob/main/DataStructures/02_LinkedList/CircularLinkedList.ipynb) ✅
     - [Circular Double Linked List](https://github.com/sivakumar-mahalingam/DSA/blob/main/DataStructures/02_LinkedList/CircularDoubleLinkedList.ipynb) ✅
+    - Skip List
 3. [Hash Table](https://github.com/sivakumar-mahalingam/DSA/tree/main/DataStructures/03_HashTable)
     - Simple Hash Table ✅
     - Separate Chaining / Open Hashing
